@@ -34,7 +34,7 @@ Passo a passo para publicar aplicação.
 ```bash
 dotnet publish -c Release -o ./publish
 ```
-ao executar o acima comando será criado uma pasta com o nome "publish" na estrutura do projeto. Caso queira verificar se o mesmo está rodando e o que será publicado dentro da pasta publish executar o comando:
+ao executar o comando acima será criado uma pasta com o nome "publish" na estrutura do projeto. Caso queira verificar se o mesmo está ok e o que será publicado dentro da pasta publish executar o comando:
 ```bash
 ./nome-da-sua-aplicacao
 ```
