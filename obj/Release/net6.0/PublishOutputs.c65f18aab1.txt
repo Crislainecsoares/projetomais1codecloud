@@ -1,0 +1,7 @@
+/home/local/DOMAINNT/crislaines/uni-mais-1code/site-web/bin/Release/net6.0/publish/site-web
+/home/local/DOMAINNT/crislaines/uni-mais-1code/site-web/bin/Release/net6.0/publish/appsettings.Development.json
+/home/local/DOMAINNT/crislaines/uni-mais-1code/site-web/bin/Release/net6.0/publish/appsettings.json
+/home/local/DOMAINNT/crislaines/uni-mais-1code/site-web/bin/Release/net6.0/publish/site-web.dll
+/home/local/DOMAINNT/crislaines/uni-mais-1code/site-web/bin/Release/net6.0/publish/site-web.deps.json
+/home/local/DOMAINNT/crislaines/uni-mais-1code/site-web/bin/Release/net6.0/publish/site-web.runtimeconfig.json
+/home/local/DOMAINNT/crislaines/uni-mais-1code/site-web/bin/Release/net6.0/publish/site-web.pdb
